@@ -1,0 +1,7 @@
+{
+    "UserInfo": [
+        {"username": "Shakil", "age": 27, "userNumber": "01305330393", "gender": "male"},
+        {"address": "dhaka, Bangladesh", "country": "BD", "postCode": "6730"},
+        {"company": "Innocent Programmer", "students": 2000, "earnig": 10000}
+    ]
+}
